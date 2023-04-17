@@ -10,4 +10,4 @@ I created this around 2020 so it is pretty poor code.
 
 # Usage
 
-`./sendtcp.py light_on.bin`
+`python3 sendtcp.py light_on.bin`

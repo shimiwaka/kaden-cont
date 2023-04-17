@@ -1,6 +1,6 @@
 # Overview
 
-This script is controll [RS-WFIREX4 RS-WFIREX4](https://www.amazon.co.jp/gp/product/B07MVC7394/) by PC.
+This script controlls [RS-WFIREX4 RS-WFIREX4](https://www.amazon.co.jp/gp/product/B07MVC7394/) by PC.
 
 If the binary of the packet are saved in advance by packet capture, they can be reproduced with this script.
 
